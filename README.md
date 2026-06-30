@@ -31,6 +31,10 @@ I have advanced experience in Ruby on Rails, React, and PostgreSQL, working in c
 <td align="center"><img width="40" src="./icons/ruby.svg"/><br><sub>Ruby</sub></td>
 <td align="center"><img width="40" src="./icons/rails.svg"/><br><sub>Rails</sub></td>
 <td align="center"><img width="40" src="./icons/nodejs.svg"/><br><sub>Node.js</sub></td>
+<td align="center"><img width="40" src="./icons/sidekiq.svg"/><br><sub>Sidekiq</sub></td>
+<td align="center"><img width="40" src="./icons/rspec.svg"/><br><sub>RSpec</sub></td>
+<td align="center"><img width="40" src="./icons/rubocop.svg"/><br><sub>RuboCop</sub></td>
+<td align="center"><img width="40" src="./icons/jest.svg"/><br><sub>Jest</sub></td>
 </tr>
 </table>
 
@@ -65,6 +69,7 @@ I have advanced experience in Ruby on Rails, React, and PostgreSQL, working in c
 <b>DevOps &amp; CI/CD</b><br><br>
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
+<td align="center"><img width="40" src="./icons/AWS.svg"/><br><sub>AWS</sub></td>
 <td align="center"><img width="40" src="./icons/gitlab.svg"/><br><sub>GitLab</sub></td>
 <td align="center"><img width="40" src="./icons/github-actions.svg"/><br><sub>GitHub Actions</sub></td>
 <td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/><br><sub>Docker</sub></td>
@@ -86,12 +91,16 @@ I have advanced experience in Ruby on Rails, React, and PostgreSQL, working in c
 
 </div>
 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoslomski&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoslomski&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
 </div>
 
 <br>
 <br>
 
-- 📫 Contato: **gustavoslomski@gmail.com**
+- 📫 Contact: **gustavoslomski@gmail.com**
 
 <p align="center"> 
