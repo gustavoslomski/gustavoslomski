@@ -23,62 +23,75 @@ I have advanced experience in Ruby on Rails, React, and PostgreSQL, working in c
 
 <br>
   
-<p align="center">
+<div align="center">
 
-  <b>Backend</b><br><br>
-  <kbd><br><img width="30" src="./icons/ruby.svg"/><br><sub>Ruby</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/rails.svg"/><br><sub>Rails</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/nodejs.svg"/><br><sub>Node.js</sub><br></kbd>
+<b>Backend</b><br><br>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img width="40" src="./icons/ruby.svg"/><br><sub>Ruby</sub></td>
+<td align="center"><img width="40" src="./icons/rails.svg"/><br><sub>Rails</sub></td>
+<td align="center"><img width="40" src="./icons/nodejs.svg"/><br><sub>Node.js</sub></td>
+</tr>
+</table>
 
-  <br><br>
+<br>
 
-  <b>Frontend</b><br><br>
-  <kbd><br><img width="30" src="./icons/vite.svg"/><br><sub>Vite</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/react.svg"/><br><sub>React</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/nextjs.svg"/><br><sub>Next.js</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/typescript.svg"/><br><sub>TypeScript</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/javascript.svg"/><br><sub>JavaScript</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/tailwind.svg"/><br><sub>Tailwind CSS</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/sass.svg"/><br><sub>Sass</sub><br></kbd>
+<b>Frontend</b><br><br>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img width="40" src="./icons/vite.svg"/><br><sub>Vite</sub></td>
+<td align="center"><img width="40" src="./icons/react.svg"/><br><sub>React</sub></td>
+<td align="center"><img width="40" src="./icons/nextjs.svg"/><br><sub>Next.js</sub></td>
+<td align="center"><img width="40" src="./icons/typescript.svg"/><br><sub>TypeScript</sub></td>
+<td align="center"><img width="40" src="./icons/javascript.svg"/><br><sub>JavaScript</sub></td>
+<td align="center"><img width="40" src="./icons/tailwind.svg"/><br><sub>Tailwind CSS</sub></td>
+<td align="center"><img width="40" src="./icons/sass.svg"/><br><sub>Sass</sub></td>
+</tr>
+</table>
 
-  <br><br>
+<br>
 
-  <b>Database &amp; API</b><br><br>
-  <kbd><br><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/><br><sub>PostgreSQL</sub><br></kbd>
-  <kbd><br><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/><br><sub>MySQL</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/graphql.svg"/><br><sub>GraphQL</sub><br></kbd>
+<b>Database &amp; API</b><br><br>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/><br><sub>PostgreSQL</sub></td>
+<td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/><br><sub>MySQL</sub></td>
+<td align="center"><img width="40" src="./icons/graphql.svg"/><br><sub>GraphQL</sub></td>
+</tr>
+</table>
 
-  <br><br>
+<br>
 
-  <b>DevOps &amp; CI/CD</b><br><br>
-  <kbd><br><img width="30" src="./icons/gitlab.svg"/><br><sub>GitLab</sub><br></kbd>
-  <kbd><br><img width="30" src="./icons/github-actions.svg"/><br><sub>GitHub Actions</sub><br></kbd>
-  <kbd><br><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/><br><sub>Docker</sub><br></kbd>
-  <kbd><br><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/><br><sub>Linux</sub><br></kbd>
-  <kbd><br><img width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/><br><sub>Git</sub><br></kbd>
+<b>DevOps &amp; CI/CD</b><br><br>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img width="40" src="./icons/gitlab.svg"/><br><sub>GitLab</sub></td>
+<td align="center"><img width="40" src="./icons/github-actions.svg"/><br><sub>GitHub Actions</sub></td>
+<td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/><br><sub>Docker</sub></td>
+<td align="center"><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/><br><sub>Linux</sub></td>
+<td align="center"><img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/><br><sub>Git</sub></td>
+</tr>
+</table>
 
-  <br><br>
+<br>
 
-  <b>Markup &amp; Styling</b><br><br>
-  <kbd><br><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br><sub>HTML5</sub><br></kbd>
-  <kbd><br><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/><br><sub>CSS3</sub><br></kbd>
-  <kbd><br><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/><br><sub>Bootstrap</sub><br></kbd>
+<b>Markup &amp; Styling</b><br><br>
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br><sub>HTML5</sub></td>
+<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/><br><sub>CSS3</sub></td>
+<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/><br><sub>Bootstrap</sub></td>
+</tr>
+</table>
 
-</p>
+</div>
 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
-
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **gustavoslomski@gmail.com**
 
 <p align="center"> 
